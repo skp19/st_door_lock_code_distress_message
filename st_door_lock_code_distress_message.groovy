@@ -9,7 +9,7 @@ definition(
     namespace: "skp19",
     author: "skp19",
     description: "Sends a text to someone when a specific code is entered",
-    category: "Convenience",
+    category: "Safety & Security",
     iconUrl: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience.png",
     iconX2Url: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience@2x.png")
 
